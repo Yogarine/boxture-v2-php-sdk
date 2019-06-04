@@ -1,4 +1,4 @@
-# boxture-sdk-php
+# boxture-v2-sdk-php
 
 Detailed documentation and test tool for the Boxture API v2
 
@@ -23,11 +23,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/yogarine/boxture-sdk-php.git"
+      "url": "https://github.com/yogarine/boxture-v2-sdk-php.git"
     }
   ],
   "require": {
-    "yogarine/boxture-sdk-php": "*@dev"
+    "yogarine/boxture-v2-sdk-php": "*@dev"
   }
 }
 ```
@@ -39,7 +39,7 @@ Then run `composer install`
 Download the files and include `autoload.php`:
 
 ```php
-    require_once('/path/to/boxture-sdk-php/vendor/autoload.php');
+    require_once('/path/to/boxture-v2-sdk-php/vendor/autoload.php');
 ```
 
 ## Tests

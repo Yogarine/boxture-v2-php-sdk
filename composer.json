@@ -1,5 +1,5 @@
 {
-    "name": "yogarine/boxture-sdk-php",
+    "name": "yogarine/boxture-v2-sdk-php",
     "version": "0.1.0",
     "description": "SDK for the Boxture API v2",
     "keywords": [
