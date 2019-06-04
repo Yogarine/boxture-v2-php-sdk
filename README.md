@@ -23,11 +23,11 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Yogarine/boxture-sdk-php.git"
+      "url": "https://github.com/yogarine/boxture-sdk-php.git"
     }
   ],
   "require": {
-    "Yogarine/boxture-sdk-php": "*@dev"
+    "yogarine/boxture-sdk-php": "*@dev"
   }
 }
 ```
