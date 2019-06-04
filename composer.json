@@ -1,0 +1,34 @@
+{
+    "name": "Yogarine/boxture-sdk-php",
+    "version": "0.1.0",
+    "description": "SDK for the Boxture API v2",
+    "keywords": [
+        "boxture",
+        "php",
+        "sdk",
+        "rest",
+        "api"
+    ],
+    "homepage": "https://github.com/Yogarine/boxture-v2-php-sdk",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Alwin Garside",
+            "homepage": "https://github.com/Yogarine"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "~2.6",
+        "friendsofphp/php-cs-fixer": "~2.12"
+    },
+    "autoload": {
+        "psr-4": { "Boxture\\V2\\" : "src/" }
+    }
+}

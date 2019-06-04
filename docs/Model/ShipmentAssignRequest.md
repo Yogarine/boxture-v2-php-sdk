@@ -1,0 +1,13 @@
+# # ShipmentAssignRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**assignedAt** | **string** |  | [optional] 
+**companyId** | **string** |  | [optional] 
+**courierId** | **string** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+
